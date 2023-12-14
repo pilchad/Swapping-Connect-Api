@@ -1,7 +1,7 @@
 [
   {
     "Name":"Default to Yeat",
-    "Icon":"https://i.redd.it/xrm3qj37v4g81.jpg",
+    "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
     "SwapIcon":"https://tse4.mm.bing.net/th?id=OIP.m_-J3dzrSM4mAKmX-bE0dQHaHa&pid=Api&P=0&h=220",
     "Type":0,
     "DownloadMessage":"",
@@ -9,7 +9,7 @@
   },
   {
     "Name":"The Origin to Yeat",
-    "SwapIcon":"https://tse4.mm.bing.net/th?id=OIP.m_-J3dzrSM4mAKmX-bE0dQHaHa&pid=Api&P=0&h=220",
+    "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
     "SwapIcon":"https://static.wikia.nocookie.net/fortnite/images/5/58/The_Origin_-_Outfit_-_Fortnite.png/revision/latest?cb=20220908034013",
     "Type":0,
     "DownloadMessage":"",
@@ -17,7 +17,7 @@
   },
   {
     "Name":"Torin to Yeat",
-    "SwapIcon":"https://tse4.mm.bing.net/th?id=OIP.m_-J3dzrSM4mAKmX-bE0dQHaHa&pid=Api&P=0&h=220",
+    "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
     "SwapIcon":""https://static.wikia.nocookie.net/fortnite/images/e/e7/Torin_-_Outfit_-_Fortnite.png/revision/latest?cb=20210913070903",
     "Type":0,
     "DownloadMessage":"",
