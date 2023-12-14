@@ -41,7 +41,7 @@
   },
   {
     "Name":"Default to ChunLi",
-    "Icon":"",
+    "Icon":"https://cdn.discordapp.com/attachments/1107927828818821190/1157213005214392360/chunli.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
