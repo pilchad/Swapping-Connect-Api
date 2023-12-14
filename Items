@@ -1,5 +1,37 @@
 [
   {
+    "Name":"Default to Klombo",
+    "Icon":"https://static.wikia.nocookie.net/fortnite/images/3/3b/Klombo_-_Wildlife_-_Fortnite.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/1053978162175934595/1184812181825540207/Klombo.rd.csp"
+  },
+  {
+    "Name":"Default to Jake",
+    "Icon":"",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/1053978162175934595/1184811880368328746/Jake.rd.csp"
+  },
+  {
+    "Name":"Default to ChunLi",
+    "Icon":"",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/1053978162175934595/1184812180470763530/ChunLInsfw.rd.csp"
+  },
+  {
+    "Name":"Default to Subway Cop",
+    "Icon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/SubwayCop/Icon.png",
+    "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://cdn.discordapp.com/attachments/1053978162175934595/1184812181057970257/fat.rd.csp?ex=658d5554&is=657ae054&hm=4af8063f2b8e5251340221e1b64a012ffabd1caf87dcc534bce0c6b59b11a19c&"
+  },
+  {
     "Name":"Default to Yeat",
     "Icon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
     "SwapIcon":"https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
