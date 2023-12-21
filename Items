@@ -1,54 +1,18 @@
 [
   {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
+    "Name":"Default to Yeat",
+    "Icon":https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
+    "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
+    "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/yeat.rd.csp"
   },
 [
   {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
+    "Name":"Default to Skeleton",
+    "Icon":https://wallpapers-clan.com/wp-content/uploads/2022/10/skeleton-pfp-1.jpg",
+    "SwapIcon":"https://wallpapers-clan.com/wp-content/uploads/2022/10/skeleton-pfp-1.jpg",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
-  },
-[
-  {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
-    "Type":0,
-    "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
-  },
-[
-  {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
-    "Type":0,
-    "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
-  },
-[
-  {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
-    "Type":0,
-    "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
-  },
-[
-  {
-    "Name":"Default to null",
-    "Icon":null",
-    "SwapIcon":"null",
-    "Type":0,
-    "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"null.rd.csp"
+    "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/Skeleton.rd.csp"
   },
