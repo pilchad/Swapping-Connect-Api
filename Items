@@ -1,8 +1,8 @@
 [
   {
     "Name":"Default to Yeat",
-    "Icon":https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
-    "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
+    "Icon":https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
+    "SwapIcon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/yeat.rd.csp"
