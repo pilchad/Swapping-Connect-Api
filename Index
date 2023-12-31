@@ -1,5 +1,5 @@
 {
-    "key":"admin","admin",
+    "key":"admin",
     "version":"1.0.0",
     "downtimeMessage":"Swapping Connect Is Currently Down, Check The Discord Server For Updates",
     "discordServer":"https://discord.gg/d3d8xeB7qU",
