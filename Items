@@ -10,8 +10,8 @@
 [
   {
     "Name":"Default to Skeleton",
-    "Icon":https://wallpapers-clan.com/wp-content/uploads/2022/10/skeleton-pfp-1.jpg",
-    "SwapIcon":"https://wallpapers-clan.com/wp-content/uploads/2022/10/skeleton-pfp-1.jpg",
+    "Icon":https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
+    "SwapIcon":"https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/Skeleton.rd.csp"
