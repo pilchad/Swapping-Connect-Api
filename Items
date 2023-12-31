@@ -5,7 +5,7 @@
     "SwapIcon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/yeat.rd.csp"
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/yeat.rd.csp"
   },
 [
   {
@@ -14,5 +14,14 @@
     "SwapIcon":"https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"https://replit.com/@meh19/mehs-plugin-marketplace#skin/Skeleton.rd.csp"
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/Skeleton.rd.csp"
+  },
+[
+  {
+    "Name":"Default to Neon",
+    "Icon":"https://github.com/Meh-19/SCv3Ico/blob/main/neon.png",
+    "SwapIcon":"https://github.com/Meh-19/SCv3Ico/blob/main/neon.png",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/Neon.rd.csp"
   },
