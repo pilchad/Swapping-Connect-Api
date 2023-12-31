@@ -1,7 +1,7 @@
 [
   {
     "Name":"Default to Yeat",
-    "Icon":https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
+    "Icon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
     "SwapIcon":"https://raw.githubusercontent.com/Tamely/SaturnMarketplace/main/Yeat/Icon.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
