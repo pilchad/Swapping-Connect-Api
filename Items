@@ -10,7 +10,7 @@
 [
   {
     "Name":"Default to Skeleton",
-    "Icon":https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
+    "Icon":"https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
     "SwapIcon":"https://github.com/Meh-19/SCv3Ico/blob/main/skull.png",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
