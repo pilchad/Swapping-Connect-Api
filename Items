@@ -5,7 +5,7 @@
     "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392846970900/yeat.jpg?ex=65a369b9&is=6590f4b9&hm=bc36823f5f05ee8d66ddef120159bfd4fe2b3b235ca53353cf45e78f52394ceb&",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/yeat.rd.csp"
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skins/yeat.rd.csp"
   },
   {
     "Name":"Default to Skeleton",
@@ -13,7 +13,7 @@
     "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392301711490/skull.png?ex=65a369b9&is=6590f4b9&hm=c27443add8fb8951a25ea08d6c4fa5c8437177425b07bc99e6524c68b682201d&",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/Skeleton.rd.csp"
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skins/Skeleton.rd.csp"
   },
   {
     "Name":"Default to Neon",
@@ -21,6 +21,6 @@
     "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881347305230366/neon.png?ex=65a369ae&is=6590f4ae&hm=5709066b42f54f6741ec8deb4e11e4438560c7c472ca7d7ccca8a009a627fa9c&",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
-    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/Neon.rd.csp"
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skins/Neon.rd.csp"
   },
 ]
