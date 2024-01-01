@@ -151,5 +151,13 @@
         "DownloadMessage":"Please note this swaps from Gingerbread Raider",
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/CheckeredRene.rd.csp"
       },
+      {
+        "Name":"Gingerbread Raider to Checkered Raider",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this swaps from Gingerbread Raider",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/CheckeredRene.rd.csp"
+      },
   ]
   
