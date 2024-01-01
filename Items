@@ -31,4 +31,12 @@
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
   },
+  {
+    "Name":"Default to STW Husk",
+    "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1190881345635897468/husk.jpg?ex=65a369ae&is=6590f4ae&hm=e2d6080abb6bf482486ff17ab3f5cebb7cb552c0f91b20c772aa2fe7aee9c5c6&=&format=webp",
+    "SwapIcon":"https://media.discordapp.net/attachments/1126595847178686565/1190881345635897468/husk.jpg?ex=65a369ae&is=6590f4ae&hm=e2d6080abb6bf482486ff17ab3f5cebb7cb552c0f91b20c772aa2fe7aee9c5c6&=&format=webp",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
+  },
 ]
