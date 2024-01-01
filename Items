@@ -1,8 +1,8 @@
 [
     {
       "Name":"Default to Yeat",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392846970900/yeat.jpg?ex=65a369b9&is=6590f4b9&hm=bc36823f5f05ee8d66ddef120159bfd4fe2b3b235ca53353cf45e78f52394ceb&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392846970900/yeat.jpg?ex=65a369b9&is=6590f4b9&hm=bc36823f5f05ee8d66ddef120159bfd4fe2b3b235ca53353cf45e78f52394ceb&",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
