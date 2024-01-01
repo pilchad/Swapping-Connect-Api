@@ -33,8 +33,8 @@
       },
     {
       "Name":"Default to Subway Cop",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305551217438720/cop.png?ex=65a4f4c0&is=65927fc0&hm=956467a040bd65bd1370f96c992dffcb79461df62dab329d42b52c8c1d18fd7b&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305551217438720/cop.png?ex=65a4f4c0&is=65927fc0&hm=956467a040bd65bd1370f96c992dffcb79461df62dab329d42b52c8c1d18fd7b&",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
