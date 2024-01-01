@@ -39,4 +39,12 @@
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
   },
+  {
+    "Name":"Default to STW Zapper",
+    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305934203518985/country.jpg?ex=65a4f51c&is=6592801c&hm=28101ef66e59929c8efe85e0e8fea7c441739a2e28fe47c13261fbee38bbdf2e&",
+    "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305934203518985/country.jpg?ex=65a4f51c&is=6592801c&hm=28101ef66e59929c8efe85e0e8fea7c441739a2e28fe47c13261fbee38bbdf2e&",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/CountryZapper.rd.csp"
+  },
 ]
