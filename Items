@@ -23,4 +23,12 @@
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Neon.rd.csp"
   },
+  {
+    "Name":"Default to Subway Cop",
+    "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1190881344713138196/cop.png?ex=65a369ae&is=6590f4ae&hm=5ad876aad8a5cf1d985f01b246cd87fe30ea3ce17c349f5c894b11e4cb25401a&=&format=webp&quality=lossless&width=482&height=482",
+    "SwapIcon":"https://media.discordapp.net/attachments/1126595847178686565/1190881344713138196/cop.png?ex=65a369ae&is=6590f4ae&hm=5ad876aad8a5cf1d985f01b246cd87fe30ea3ce17c349f5c894b11e4cb25401a&=&format=webp&quality=lossless&width=482&height=482",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
+  },
 ]
