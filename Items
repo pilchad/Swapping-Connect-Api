@@ -49,8 +49,8 @@
     },
     {
       "Name":"Default to STW Husk",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305685070262292/husk.jpg?ex=65a4f4e0&is=65927fe0&hm=c2d73f468531e7a558587cc0a4433579febac12f1c41210054ff696869ba8abf&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305685070262292/husk.jpg?ex=65a4f4e0&is=65927fe0&hm=c2d73f468531e7a558587cc0a4433579febac12f1c41210054ff696869ba8abf&",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
