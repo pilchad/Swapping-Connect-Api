@@ -25,16 +25,16 @@
   },
   {
     "Name":"Default to Subway Cop",
-    "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1190881344713138196/cop.png?ex=65a369ae&is=6590f4ae&hm=5ad876aad8a5cf1d985f01b246cd87fe30ea3ce17c349f5c894b11e4cb25401a&=&format=webp&quality=lossless&width=482&height=482",
-    "SwapIcon":"https://media.discordapp.net/attachments/1126595847178686565/1190881344713138196/cop.png?ex=65a369ae&is=6590f4ae&hm=5ad876aad8a5cf1d985f01b246cd87fe30ea3ce17c349f5c894b11e4cb25401a&=&format=webp&quality=lossless&width=482&height=482",
+    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305551217438720/cop.png?ex=65a4f4c0&is=65927fc0&hm=956467a040bd65bd1370f96c992dffcb79461df62dab329d42b52c8c1d18fd7b&",
+    "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305551217438720/cop.png?ex=65a4f4c0&is=65927fc0&hm=956467a040bd65bd1370f96c992dffcb79461df62dab329d42b52c8c1d18fd7b&",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
   },
   {
     "Name":"Default to STW Husk",
-    "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1190881345635897468/husk.jpg?ex=65a369ae&is=6590f4ae&hm=e2d6080abb6bf482486ff17ab3f5cebb7cb552c0f91b20c772aa2fe7aee9c5c6&=&format=webp",
-    "SwapIcon":"https://media.discordapp.net/attachments/1126595847178686565/1190881345635897468/husk.jpg?ex=65a369ae&is=6590f4ae&hm=e2d6080abb6bf482486ff17ab3f5cebb7cb552c0f91b20c772aa2fe7aee9c5c6&=&format=webp",
+    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305685070262292/husk.jpg?ex=65a4f4e0&is=65927fe0&hm=c2d73f468531e7a558587cc0a4433579febac12f1c41210054ff696869ba8abf&",
+    "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305685070262292/husk.jpg?ex=65a4f4e0&is=65927fe0&hm=c2d73f468531e7a558587cc0a4433579febac12f1c41210054ff696869ba8abf&",
     "Type":0,
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
