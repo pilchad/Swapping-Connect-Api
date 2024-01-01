@@ -1,32 +1,32 @@
 [
     {
       "Name":"Default to Yeat",
-      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
-      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Yeat/Icon.png?raw=true",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
     },
     {
       "Name":"Default to Skeleton",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392301711490/skull.png?ex=65a369b9&is=6590f4b9&hm=c27443add8fb8951a25ea08d6c4fa5c8437177425b07bc99e6524c68b682201d&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881392301711490/skull.png?ex=65a369b9&is=6590f4b9&hm=c27443add8fb8951a25ea08d6c4fa5c8437177425b07bc99e6524c68b682201d&",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Skeleton.rd.csp"
     },
     {
       "Name":"Default to Neon",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881347305230366/neon.png?ex=65a369ae&is=6590f4ae&hm=5709066b42f54f6741ec8deb4e11e4438560c7c472ca7d7ccca8a009a627fa9c&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881347305230366/neon.png?ex=65a369ae&is=6590f4ae&hm=5709066b42f54f6741ec8deb4e11e4438560c7c472ca7d7ccca8a009a627fa9c&",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Neon.rd.csp"
     },
     {
         "Name":"Default to Sage",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881391710314596/sage.png?ex=65a369b9&is=6590f4b9&hm=c0539fa0a680a5c6e504694e1c076620291e8a509d13e727fed5dff80db5c032&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881391710314596/sage.png?ex=65a369b9&is=6590f4b9&hm=c0539fa0a680a5c6e504694e1c076620291e8a509d13e727fed5dff80db5c032&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Sage.rd.csp"
@@ -41,8 +41,8 @@
     },
     {
       "Name":"Default to Jake Bressler",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881346025955428/jake.jpg?ex=65a369ae&is=6590f4ae&hm=328843f373518c753ccb531ffe75720dc92cf9858d34235009771d63131b357a&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1190881346025955428/jake.jpg?ex=65a369ae&is=6590f4ae&hm=328843f373518c753ccb531ffe75720dc92cf9858d34235009771d63131b357a&",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Jake.rd.csp"
@@ -57,24 +57,24 @@
     },
     {
       "Name":"Default to STW Zapper",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305934203518985/country.jpg?ex=65a4f51c&is=6592801c&hm=28101ef66e59929c8efe85e0e8fea7c441739a2e28fe47c13261fbee38bbdf2e&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191305934203518985/country.jpg?ex=65a4f51c&is=6592801c&hm=28101ef66e59929c8efe85e0e8fea7c441739a2e28fe47c13261fbee38bbdf2e&",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/CountryZapper.rd.csp"
     },
     {
       "Name":"Default to STW Sci-Fi Zapper",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191306137862152194/zapper.png?ex=65a4f54c&is=6592804c&hm=26c2cdf7fc2d240b3a5c5bb992587d6afaf413c708bdf98ee45a7be47615ffb7&",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191306137862152194/zapper.png?ex=65a4f54c&is=6592804c&hm=26c2cdf7fc2d240b3a5c5bb992587d6afaf413c708bdf98ee45a7be47615ffb7&",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
       "Type":0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/SciFiZapper.rd.csp"
     },
     {
         "Name":"Default to Klombo",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191308947022430260/klombo.jpg?ex=65a4f7ea&is=659282ea&hm=26a8d1edbb5ddfd81e4104005c77a0bc02e19061bc925a1c2497908f0e92915d&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191308947022430260/klombo.jpg?ex=65a4f7ea&is=659282ea&hm=26a8d1edbb5ddfd81e4104005c77a0bc02e19061bc925a1c2497908f0e92915d&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Klombo.rd.csp"
@@ -89,40 +89,40 @@
       },
       {
         "Name":"Default to Glamrock Bonnie",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310539310243942/bonnie.png?ex=65a4f966&is=65928466&hm=7c7af449631683e80e27b8f67e17c43b586e42c1d979c8cb3545cc3f215c07cf&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310539310243942/bonnie.png?ex=65a4f966&is=65928466&hm=7c7af449631683e80e27b8f67e17c43b586e42c1d979c8cb3545cc3f215c07cf&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Bonnie.rd.csp"
       },
       {
         "Name":"Default to Lego Ninjago Lloyd",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310558251728956/lloyd.jpg?ex=65a4f96a&is=6592846a&hm=bebdac69016d6c18d0344eeb24bcff90e34fb70e7c7527841eb652f1a1f61393&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310558251728956/lloyd.jpg?ex=65a4f96a&is=6592846a&hm=bebdac69016d6c18d0344eeb24bcff90e34fb70e7c7527841eb652f1a1f61393&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/lloyd.rd.csp"
       },
       {
         "Name":"Default to Saul Goodman",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310579445547088/saul.jpg?ex=65a4f96f&is=6592846f&hm=591d33eb6c148b117ccb87ac75c6200b5ad0cd9644825c1377d82a9eb3f96f97&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310579445547088/saul.jpg?ex=65a4f96f&is=6592846f&hm=591d33eb6c148b117ccb87ac75c6200b5ad0cd9644825c1377d82a9eb3f96f97&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Saul.rd.csp"
       },
       {
         "Name":"Default to Shadow Polo Prodigy",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310618947506196/polo.jpg?ex=65a4f979&is=65928479&hm=e6669f9473bd5272bb0dbf5484f0d0a363ffd1288ce7d9a40f6da05396e7977d&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310618947506196/polo.jpg?ex=65a4f979&is=65928479&hm=e6669f9473bd5272bb0dbf5484f0d0a363ffd1288ce7d9a40f6da05396e7977d&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Polo.rd.csp"
       },
       {
         "Name":"Default to Prime Bottle",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191311443879018577/prime.png?ex=65a4fa3d&is=6592853d&hm=31446acfba2d965c816547a08116a1768a175d5417f52e64fc044563d98d7ff3&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191311443879018577/prime.png?ex=65a4fa3d&is=6592853d&hm=31446acfba2d965c816547a08116a1768a175d5417f52e64fc044563d98d7ff3&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Prime.rd.csp"
