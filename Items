@@ -81,8 +81,8 @@
       },
       {
         "Name":"Default to M.X.E.S",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310516191248445/mxes.jpg?ex=65a4f960&is=65928460&hm=1c3757f5cc25e97f2ab8fd40e900d6ac44040019558be6baf0ba9092bab2c08d&",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191310516191248445/mxes.jpg?ex=65a4f960&is=65928460&hm=1c3757f5cc25e97f2ab8fd40e900d6ac44040019558be6baf0ba9092bab2c08d&",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
         "Type":0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Mxes.rd.csp"
