@@ -47,4 +47,12 @@
     "DownloadMessage":"Please note this might kick",
     "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/CountryZapper.rd.csp"
   },
+  {
+    "Name":"Default to STW Sci-Fi Zapper",
+    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191306137862152194/zapper.png?ex=65a4f54c&is=6592804c&hm=26c2cdf7fc2d240b3a5c5bb992587d6afaf413c708bdf98ee45a7be47615ffb7&",
+    "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1191306137862152194/zapper.png?ex=65a4f54c&is=6592804c&hm=26c2cdf7fc2d240b3a5c5bb992587d6afaf413c708bdf98ee45a7be47615ffb7&",
+    "Type":0,
+    "DownloadMessage":"Please note this might kick",
+    "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/SciFiZapper.rd.csp"
+  },
 ]
