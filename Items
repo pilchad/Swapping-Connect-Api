@@ -155,7 +155,7 @@
         "Name":"Re-OG to Boy's a Liar",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
-        "Type":0,
+        "Type":4,
         "DownloadMessage":"This converts from Re-OG",
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/BoysALiar.rd.csp"
       },
