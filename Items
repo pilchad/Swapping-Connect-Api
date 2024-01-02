@@ -159,5 +159,13 @@
         "DownloadMessage":"This converts from Re-OG",
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/BoysALiar.rd.csp"
       },
+      {
+        "Name":"Gun",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/GunIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/GunIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Bang Bang! This swaps from Jackie",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/ratedR.rd.csp"
+      },
   ]
   
