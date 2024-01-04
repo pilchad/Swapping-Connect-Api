@@ -167,5 +167,13 @@
         "DownloadMessage":"Bang Bang! This swaps from Jackie",
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/ratedR.rd.csp"
       },
+      {
+        "Name":"Chicken",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChickenIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChickenIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Bang Bang! This swaps from Jackie",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/chickens.csp"
+      },
   ]
   
